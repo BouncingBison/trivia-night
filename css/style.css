@@ -1,0 +1,42 @@
+#orb {
+    background-color: orange;
+    height: 900px;
+    width: 900px;
+    border-radius: 900px;
+    border-width: 20px;
+    border-color: orange;
+    margin: auto;
+}
+
+#tb {
+    align-content: center;
+}
+
+#g {
+    margin: auto;
+    align-content: center;
+}
+
+#t {
+    font-size: 150px;
+    align-content: center;
+}
+
+#a {
+    font-size: 25px;
+    align-content: center;
+}
+
+#q {
+    font-size: 25px;
+    align-content: center;
+}
+
+#m {
+    font-size: 25px;
+    align-content: center;
+}
+
+.inner {
+    display: inline-block;
+}
